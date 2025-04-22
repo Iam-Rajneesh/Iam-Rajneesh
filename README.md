@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Iam-Rajneesh
-- 👀 I’m interested in Cloud Coumputing 
-- 🌱 I’m currently learning Devops
-- 💞️ I’m looking to collaborate on Anything 
-- 📫 How to reach me Just Message Me
-- 😄 Pronouns: He
-- ⚡ Fun fact: I can Cook 
+- 💼 I’ve completed my Bachelor's degree in Computer Science from Acropolis Institute of Technology and Research;
+- 🤔 My interests are with Web Development 🖥️, Cloud Coumputing 👀, AI 🤖, Cricket 🏏, etc..;
+- 🎬 I love watching movies, and I'm a big fan of MCU 
+- 💬 Ask me about anything, and I am happy to help;
+- 📫 Please email via imailrajneesh@gmail.com or ping me on LinkedIn to reach me;
 
 <!---
 Iam-Rajneesh/Iam-Rajneesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -3,7 +3,7 @@
 - 🤔 My interests are with Web Development 🖥️, Cloud Coumputing 👀, AI 🤖, Cricket 🏏, etc..;
 - 🎬 I love watching movies, and I'm a big fan of MCU 
 - 💬 Ask me about anything, and I am happy to help;
-- 📫 Please email via imailrajneesh@gmail.com or ping me on LinkedIn to reach me;
+- 📫 Please email via imailrajneesh@gmail.com or ping me on LinkedIn www.linkedin.com/in/rajneesh-choudhary/ to reach me;
 
 <!---
 Iam-Rajneesh/Iam-Rajneesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
